@@ -9,5 +9,4 @@ public class PoloniexMarketDataApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PoloniexMarketDataApplication.class, args);
 	}
-
 }
